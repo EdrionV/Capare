@@ -9,6 +9,9 @@ class Inventory:
             print("Your equipment: ")
             print(inventory[i])
 
+    def del_inventory(inventory, y):
+        return inventory.remove(y)
+
 # #var = []
 # Inventory.load_inventory("bag")
 # Inventory.load_inventory("cot")

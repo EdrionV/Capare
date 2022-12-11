@@ -46,7 +46,6 @@ class MainChar:
                           "(For example: Knight, Witch, Spy, etc) - ")
         return char_type
 
-
     def char_3(char_name, char_type):
 
         char_gender = input("Which gender would you like to give to your Avatar? Enter male/female or m/f - ")
@@ -62,7 +61,7 @@ class MainChar:
         return char_gender
         #enemyCreation_cp.MainEnemy.enemy_details()
 
-    def char_3a(self):
+    def char_3a(self, char_name, char_type):
 
         if self.char_gender.lower() == 'male' or self.char_gender.lower() == 'm':
             print("\nYou are an awesome Man!!. " + self.char_name+" ! the great " + self.char_type)
