@@ -1,0 +1,10 @@
+                                                                              Welcome to C.A.P.A.R.E.'s Help centre
+
+                                        In C.A.P.A.R.E., we have made sure that you get all the information needed right away, for a specific situation.
+                                        Whether it be attacking your enemy or picking up an item, every command and its use will be mentioned before you,
+                                                                 so you will rarely find a situation where you will not know what to do.
+
+                                        During some fight scenes, there will be moments where you will have to just wait and watch what happens as both you and
+                                       your enemy are in combat and trying to kill each other and ultimately the score(health) gets displayed and decides who won
+
+                                        We also have given you option to exit the game at all times, so feel free to restart your journey with better performance
